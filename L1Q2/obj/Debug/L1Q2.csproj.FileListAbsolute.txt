@@ -1,0 +1,7 @@
+C:\Users\K.Osokina\source\repos\L1Q2\L1Q2\bin\Debug\L1Q2.exe.config
+C:\Users\K.Osokina\source\repos\L1Q2\L1Q2\bin\Debug\L1Q2.exe
+C:\Users\K.Osokina\source\repos\L1Q2\L1Q2\bin\Debug\L1Q2.pdb
+C:\Users\K.Osokina\source\repos\L1Q2\L1Q2\obj\Debug\L1Q2.csprojAssemblyReference.cache
+C:\Users\K.Osokina\source\repos\L1Q2\L1Q2\obj\Debug\L1Q2.csproj.CoreCompileInputs.cache
+C:\Users\K.Osokina\source\repos\L1Q2\L1Q2\obj\Debug\L1Q2.exe
+C:\Users\K.Osokina\source\repos\L1Q2\L1Q2\obj\Debug\L1Q2.pdb
